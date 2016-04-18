@@ -425,6 +425,17 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/librs_adreno_sha1.so:system/vendor/lib64/librs_adreno_sha1.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libsc-a2xx.so:system/vendor/lib64/libsc-a2xx.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib64/libsc-a3xx.so:system/vendor/lib64/libsc-a3xx.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera2_frame_algorithm.so:system/vendor/lib64/libmmcamera2_frame_algorithm.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera2_stats_algorithm.so:system/vendor/lib64/libmmcamera2_stats_algorithm.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_imx179.so:system/vendor/lib64/libmmcamera_imx179.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_imx214.so:system/vendor/lib64/libmmcamera_imx214.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_imx214_ofilm_largan.so:system/vendor/lib64/libmmcamera_imx214_ofilm_largan.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_imx214_sunny_largan.so:system/vendor/lib64/libmmcamera_imx214_sunny_largan.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_ov7695.so:system/vendor/lib64/libmmcamera_ov7695.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_ov8858.so:system/vendor/lib64/libmmcamera_ov8858.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_ov8858_q8v19w.so:system/vendor/lib64/libmmcamera_ov8858_q8v19w.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_ov16825.so:system/vendor/lib64/libmmcamera_ov16825.so \
+    vendor/xiaomi/ferrari/proprietary/vendor/lib64/libmmcamera_s5k3m2_f13s01k.so:system/vendor/lib64/libmmcamera_s5k3m2_f13s01k.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/xiaomi/ferrari/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
