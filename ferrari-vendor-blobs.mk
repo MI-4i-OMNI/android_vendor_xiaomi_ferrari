@@ -87,6 +87,15 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ferrari/proprietary/lib/hw/vibrator.goldfish.so:system/lib/hw/vibrator.goldfish.so \
     vendor/xiaomi/ferrari/proprietary/lib/hw/wbc_hal.default.so:system/lib/hw/wbc_hal.default.so \
     vendor/xiaomi/ferrari/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libeffectproxy.so:system/lib/soundfx/libeffectproxy.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libldnhncr.so:system/lib/soundfx/libldnhncr.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libqcompostprocbundle.so:system/lib/soundfx/libqcompostprocbundle.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libqcomvisualizer.so:system/lib/soundfx/libqcomvisualizer.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
+    vendor/xiaomi/ferrari/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
     vendor/xiaomi/ferrari/proprietary/lib64/hw/audio.primary.msm8916.so:system/lib64/hw/audio.primary.msm8916.so \
     vendor/xiaomi/ferrari/proprietary/lib64/hw/sensors.lsm6db0.so:system/lib64/hw/sensors.lsm6db0.so \
     vendor/xiaomi/ferrari/proprietary/lib64/libcnefeatureconfig.so:system/lib64/libcnefeatureconfig.so \
